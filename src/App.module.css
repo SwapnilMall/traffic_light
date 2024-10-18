@@ -1,0 +1,21 @@
+
+.MainContainer{
+  background-color: black;
+  height: 500px;
+  width: 10vw;
+  min-width: 300px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.lightColor{
+  background-color: rgb(85, 88, 88);
+  border: 5px solid white;
+  height: 130px;
+  width: 130px;
+  text-align: center;
+  margin: 15px 0px;
+  border-radius: 140px;
+}
